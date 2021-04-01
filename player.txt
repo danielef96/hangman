@@ -1,0 +1,3 @@
+FirstName degli utenti che hanno giocato almeno una volta HANGMAN:
+Dany
+Francesco
